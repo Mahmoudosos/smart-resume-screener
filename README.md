@@ -41,13 +41,13 @@ This app demonstrates how NLP & Transformers can:
 
 ## How to Run:
 Clone the repo, install dependencies, and run the app :
-<pre> ```bash 
+<pre>
   # Clone the repo 
   git clone https://github.com/your-username/resume-job-matcher.git cd resume-job-matcher 
   # Install dependencies 
   pip install -r requirements.txt 
   # Run the Streamlit 
-  app streamlit run app.py ``` </pre>
+  app streamlit run app.py </pre>
 
 ## Author
 
