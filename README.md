@@ -49,5 +49,14 @@ Clone the repo, install dependencies, and run the app :
   # Run the Streamlit 
   app streamlit run app.py ``` pre>
 
+## Author
+
+Mahmoud Osama – Aspiring Data Scientist | NLP Enthusiast | Open to Internships & Junior Roles
+
+LinkedIn: https://www.linkedin.com/in/mahmoud-osama-52497a28b
+
+Email: mahmoud.osama2021@feps.edu.eg
+
+GitHub: https://github.com/Mahmoudosos 
 
   
