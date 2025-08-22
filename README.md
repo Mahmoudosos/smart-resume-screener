@@ -47,7 +47,7 @@ Clone the repo, install dependencies, and run the app :
   # Install dependencies 
   pip install -r requirements.txt 
   # Run the Streamlit 
-  app streamlit run app.py ``` pre>
+  app streamlit run app.py ``` </pre>
 
 ## Author
 
